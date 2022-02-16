@@ -2,13 +2,13 @@
 - React.Js
 
 # Start
-- `npm install`
-- `npm start`
+- ```npm install```
+- ```npm start```
 
 # Example
 ![](https://cdn.discordapp.com/attachments/925063485556150292/943583080415899678/unknown.png)
 
-`
+```jsx
 import { createContext, useReducer } from "react";
 
 export const ThemeContext = createContext();
@@ -32,4 +32,4 @@ export const ThemeProvider = (props) => {
     </ThemeContext.Provider>
   );
 };
-`
+```
