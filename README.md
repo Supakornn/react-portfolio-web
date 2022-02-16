@@ -1,9 +1,9 @@
 # React-Portfolio-Web
 - React.Js
 
-#Start
+# Start
 `npm install`
 `npm start`
 
-#Example
+# Example
 
