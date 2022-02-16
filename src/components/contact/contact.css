@@ -6,7 +6,7 @@
 .c-bg {
     width: 20px;
     height: 100%;
-    background-color: #59b256;
+    background-color: #2A63BC;
     position: absolute;
 }
 
@@ -74,7 +74,7 @@ textarea {
 button {
     border: none;
     padding: 15px;
-    background-color: #59b256;
+    background-color: #2A63BC;
     color: white;
     font-weight: 500;
     cursor: pointer;
@@ -84,6 +84,43 @@ button {
     .c-wrapper {
         flex-direction: column;
         padding: 0px 50px;
+    }
+
+    .c-title {
+        font-size: 30px;
+    }
+
+    .c-info-item {
+        margin: 20px 0px;
+        width: 100%;
+    }
+
+    .c-desc {
+        display: none;
+    }
+
+    form {
+        margin-top: 0px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    input {
+        width: 35%;
+        height: 40px;
+        margin: 10px;
+        margin-left: 0;
+    }
+
+    button {
+        margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .c-wrapper {
+        flex-direction: column;
+        padding: 0 50px;
     }
 
     .c-title {

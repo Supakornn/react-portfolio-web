@@ -25,6 +25,35 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
 .pl-link {
     text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+    .pl {
+        padding: 10px;
+    }
+
+    .pl-texts {
+        width: 100%;
+    }
+
+    .pl-desc {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .pl {
+        padding: 10px;
+    }
+
+    .pl-texts {
+        width: 100%;
+    }
+
+    .pl-desc {
+        display: none;
+    }
 }

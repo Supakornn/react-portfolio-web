@@ -12,13 +12,13 @@ const Intro = () => {
           <div className="i-title">
             <div className="i-title-wrapper">
               <div className="i-title-item">Student</div>
-              <div className="i-title-item">16 Years old</div>
-              <div className="i-title-item">interest in Backend Developer</div>
+              <div className="i-title-item">16 years old</div>
+              <div className="i-title-item">  Developer</div>
               <div className="i-title-item">From Thailand</div>
             </div>
           </div>
           <p className="i-desc">
-            I'm a Student From Thaialnd
+            I'm a Student and Developer From Thaialnd
           </p>
         </div>
         <svg
