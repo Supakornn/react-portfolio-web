@@ -30,5 +30,4 @@ export const ThemeProvider = (props) => {
       {props.children}
     </ThemeContext.Provider>
   );
-};
-`
+};`
