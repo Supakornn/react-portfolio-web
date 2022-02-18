@@ -1,7 +1,7 @@
-# React-Portfolio-Web
+# React-Portfolio-We
 - React.Js
 
-# Sta
+# Start
 - ```npm install```
 - ```npm start```
 
