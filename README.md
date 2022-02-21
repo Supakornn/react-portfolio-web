@@ -1,5 +1,5 @@
 # React-Portfolio-Web
-Install
+# Install
 - ```npm install```
 
 # Example Dark Theme
