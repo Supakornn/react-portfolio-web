@@ -1,5 +1,3 @@
-# React-Portfolio-Web
-React Portfolio Website
 # Install
 - ```npm install```
 
