@@ -1,5 +1,4 @@
 # React-Portfolio-Web
-- React.Js
 Install
 - ```npm install```
 
